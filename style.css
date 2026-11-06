@@ -436,7 +436,7 @@
      }
  }
 
- @media screen and (max-width:320px) {
+ @media screen and (max-width:480px) {
      .navbar-content {
          flex-wrap: wrap;
          padding: 13px 0;
